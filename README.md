@@ -15,19 +15,3 @@ npm install
 ```bash
 npm start
 ```
-#### E respondendo às seguintes perguntas:
-1. Descreva possíveis otimizações de performance que você poderia fazer no seu
-próprio código.
-
-```bash
-Separar os serviços das views.
-```
-
-
-
-2. O que você poderia ter melhorado?
-
-
-```bash
-Todo o UI
-```
